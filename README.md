@@ -44,7 +44,7 @@ A powerful banking system built with C++, divided into two modules:
 
 Clone & run using:
 
-git clone https://github.com/yourusername/bank-system.git  
+git clone [https://github.com/yourusername/bank-system.git](https://lnkd.in/eaxQxdUr)  
 
 cd bank-system  
 
