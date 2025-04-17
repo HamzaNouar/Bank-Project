@@ -1,4 +1,4 @@
-**🚀 Bank Management System - C++ Console App**
+##  🚀 Bank Management System - C++ Console App
 
 **🔹 Overview**
 
