@@ -1,6 +1,6 @@
-🚀 Bank Management System - C++ Console App
+**🚀 Bank Management System - C++ Console App**
 
-🔹 Overview
+**🔹 Overview**
 
 A powerful banking system built with C++, divided into two modules:
 
@@ -8,7 +8,7 @@ A powerful banking system built with C++, divided into two modules:
 
 ✅ Bank Administration: Employee-facing system for managing users, permissions, and accounts.
 
-✨ Key Features
+**✨ Key Features**
 
 🔑 Secure Login – PIN-based authentication & account management.
 
@@ -20,7 +20,7 @@ A powerful banking system built with C++, divided into two modules:
 
 ⚙️ Admin Functions – Client registration, profile management & currency exchange.
 
-🛠 System Architecture
+**🛠 System Architecture**
 
 🏗️ Object-Oriented Design – Uses Inheritance, Encapsulation, Polymorphism & Abstraction
 
@@ -28,7 +28,7 @@ A powerful banking system built with C++, divided into two modules:
 
 🔒 Security Features – Password protection, session timeout & audit logging.
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 🔹 GUI Interface – Upgrade from console to graphical UI.
 
@@ -40,7 +40,7 @@ A powerful banking system built with C++, divided into two modules:
 
 
 
-📌 Setup Instructions
+**📌 Setup Instructions**
 
 Clone & run using:
 
@@ -54,6 +54,6 @@ g++ -o bank_system main.cpp
 
 
 
-📢 Credits
+**📢 Credits**
 
 Developed to showcase modular architecture & OOP principles in financial software.
