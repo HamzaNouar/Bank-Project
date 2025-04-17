@@ -1,0 +1,81 @@
+﻿  ProjectBankClientOOP.cpp
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\ProjectBankClientOOP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsDate.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUser.h(187,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ProjectBankClientOOP.cpp')
+      E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUser.h(165,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(257,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ProjectBankClientOOP.cpp')
+      E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(237,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(247,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(248,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(249,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(511,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(527,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(544,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsAddNewClientScreen.h(30,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsAddNewClientScreen.h(30,69): warning C4244:         with
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsAddNewClientScreen.h(30,69): warning C4244:         [
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsAddNewClientScreen.h(30,69): warning C4244:             T=double
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsAddNewClientScreen.h(30,69): warning C4244:         ]
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUpdateClientScreen.h(29,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUpdateClientScreen.h(29,69): warning C4244:         with
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUpdateClientScreen.h(29,69): warning C4244:         [
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUpdateClientScreen.h(29,69): warning C4244:             T=double
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUpdateClientScreen.h(29,69): warning C4244:         ]
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsMainScreen.h(31,86): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsMainScreen.h(31,86): warning C4267:         with
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsMainScreen.h(31,86): warning C4267:         [
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsMainScreen.h(31,86): warning C4267:             T=short
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsMainScreen.h(31,86): warning C4267:         ]
+  (compiling source file 'ProjectBankClientOOP.cpp')
+  
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsBankClient.h(443,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\source\repos\ProjectBankClientOOP\ProjectBankClientOOP\clsUser.h(343,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  ProjectBankClientOOP.vcxproj -> E:\source\repos\ProjectBankClientOOP\x64\Debug\ProjectBankClientOOP.exe
